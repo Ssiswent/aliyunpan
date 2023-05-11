@@ -75,7 +75,6 @@
 > * ia32：64位x86架构的处理器
 > * x64：Apple M1处理器版本
 > * portable.exe 免安装版本
-### 手动安装
 
 1. 在 [Latest Release](https://github.com/gaozhangmin/aliyunpan/releases/latest) 页面下载 `XBYDriver-Setup-*.exe` 的安装包 
 2. 下载完成后双击安装包进行安装
@@ -86,7 +85,6 @@
 ## MacOS
 > * x64：64位x86架构的处理器
 > * arm64：Apple M1处理器版本
-### 手动安装
 
 1.  去 [Latest Release](https://github.com/gaozhangmin/aliyunpan/releases/latest) 页面下载对应芯片以 `.dmg` 的安装包（Apple Silicon机器请使用arm64版本，并注意执行下文`xattr`指令）
 2.  下载完成后双击安装包进行安装，然后将 `小白羊` 拖动到 `Applications` 文件夹。
@@ -96,10 +94,10 @@
  > * x64：64位x86架构的处理器
  > * arm64：64位ARM架构的处理器。
  > * armv7l：32位ARM架构的处理器。
-### 手动安装deb安装包
+### deb安装包
  1.  去 [Latest Release](https://github.com/gaozhangmin/aliyunpan/releases/latest) 页面下载以 `.deb` 结尾的安装包
  2.  执行`sudo dpkg -i XBYDriver-3.11.6-linux-amd64.deb`
-### 手动安装AppImage安装包
+### AppImage安装包
  1.  去 [Latest Release](https://github.com/gaozhangmin/aliyunpan/releases/latest) 页面下载以 `.AppImage` 结尾的安装包
  2.  chmod +x XBYDriver-3.11.6-linux-amd64.AppImage`
  3.  下载完成后双击安装包进行安装。
