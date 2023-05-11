@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-微信关注“小白羊网盘”公众号-orange.svg" alt="#" align="right">
   </a>
   <a href="LICENSE" target="_blank">
-    <img alt="MIT License" src="https://img.shields.io/github/license/yetone/openai-translator.svg?style=flat-square" />
+    <img alt="MIT License" src="https://img.shields.io/github/license/gaozhangmin/aliyunpan?style=flat-square&logoColor=white" />
   </a>
 
   <!-- TypeScript Badge -->
