@@ -35,10 +35,10 @@
   </a>  
 </p>
 
-[![](https://img.shields.io/badge/-Contents:-696969.svg)](#contents) [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#Function-主要功能-) [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#Download-下载-) [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#Community-交流社区-) [![](https://img.shields.io/badge/-API-F5F5F5.svg)](#API-) [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#Other-其他-) [![](https://img.shields.io/badge/-Grateful-F5F5F5.svg)](#Grateful-感谢-) [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
+[![](https://img.shields.io/badge/-Contents:-696969.svg)](#contents) [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#Function-特性-) [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#Download-下载-) [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#Community-交流社区-) [![](https://img.shields.io/badge/-API-F5F5F5.svg)](#API-) [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#Other-其他-) [![](https://img.shields.io/badge/-Grateful-F5F5F5.svg)](#Grateful-感谢-) [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
 
 
-# Function-特性 [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#Function-主要功能-)
+# 特性 [![](https://img.shields.io/badge/-Function-F5F5F5.svg)](#特性-)
 1.根据阿里云盘Open平台api开发的网盘客户端，支持win7-11，macOS，linux <br>
 
 2.支持同时登录多个账号管理。 <br>
@@ -63,14 +63,14 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
 
-# Interface-界面 [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
+# 界面 [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#界面-)
 <img src="https://github.com/gaozhangmin/staticResource/blob/master/images/main_window.png" width="270"><img src="https://github.com/gaozhangmin/staticResource/blob/master/images/download_page.png" width="270"><img src="https://github.com/gaozhangmin/staticResource/blob/master/images/movie_page.png" width="270">
 <img src="https://github.com/gaozhangmin/staticResource/blob/master/images/plugin_page.png" width="270"><img src="https://github.com/gaozhangmin/staticResource/blob/master/images/settings_page.png" width="270"><img src="https://github.com/gaozhangmin/staticResource/blob/master/images/share_page.png" width="270">
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
 
-# 安装 [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#Download-下载-)
+# 安装 [![](https://img.shields.io/badge/-Download-F5F5F5.svg)](#安装-)
 
 ## Windows
 > * ia32：64位x86架构的处理器
@@ -135,7 +135,7 @@
     </p>
     
     
-# Community-交流社区 [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#Community-交流社区-)
+# 交流社区 [![](https://img.shields.io/badge/-Community-F5F5F5.svg)](#交流社区-)
 
 #### Telegram
 [![Telegram-group](https://img.shields.io/badge/Telegram-%E7%BE%A4%E7%BB%84-blue)](https://t.me/+wjdFeQ7ZNNE1NmM1)
@@ -145,7 +145,7 @@
 
 
 
-# 鸣谢 [![](https://img.shields.io/badge/-Grateful-F5F5F5.svg)](#Grateful-感谢-)
+# 鸣谢 [![](https://img.shields.io/badge/-Grateful-F5F5F5.svg)](#鸣谢-)
  
 由于原作者 [liupan1890](https://github.com/liupan1890) 已停止维护， 
 本项目基于 https://github.com/liupan1890/aliyunpan 仓库继续开发。
@@ -154,7 +154,7 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
 
-# 请作者喝一杯咖啡 [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#Other-其他-)
+# 请作者喝一杯咖啡 [![](https://img.shields.io/badge/-Other-F5F5F5.svg)](#请作者喝一杯咖啡-)
 <p align="center">
   <img height="360" src="https://github.com/gaozhangmin/staticResource/blob/master/images/wechat_pay.jpeg" />
   <img height="360" src="https://github.com/gaozhangmin/staticResource/blob/master/images/alipay.jpeg" />
