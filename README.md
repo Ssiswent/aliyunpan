@@ -35,7 +35,7 @@
   </a>  
 </p>
 
-[![](https://img.shields.io/badge/-%E5%8A%9F%E8%83%BD-blue)](#功能-) [![](https://img.shields.io/badge/-%E7%95%8C%E9%9D%A2-blue)](#界面-) [![](https://img.shields.io/badge/-%E5%AE%89%E8%A3%85-blue)](#安装-) [![](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%A4%BE%E5%8C%BA-blue)](#交流社区-) [![](https://img.shields.io/badge/-%E9%B8%A3%E8%B0%A2-blue)](#鸣谢-) [![](https://img.shields.io/badge/-%E8%AF%B7%E5%96%9D%E5%92%96%E5%95%A1-blue)](#请作者喝一杯咖啡-) [![](https://img.shields.io/badge/-Star-blue)](#Star-) [![](https://img.shields.io/badge/-%E5%A3%B0%E6%98%8E-blue)](#Announcement-)
+[![](https://img.shields.io/badge/-%E5%8A%9F%E8%83%BD-blue)](#功能-) [![](https://img.shields.io/badge/-%E7%95%8C%E9%9D%A2-blue)](#界面-) [![](https://img.shields.io/badge/-%E5%AE%89%E8%A3%85-blue)](#安装-) [![](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%A4%BE%E5%8C%BA-blue)](#交流社区-) [![](https://img.shields.io/badge/-%E9%B8%A3%E8%B0%A2-blue)](#鸣谢-) [![](https://img.shields.io/badge/-%E8%AF%B7%E5%96%9D%E5%92%96%E5%95%A1-blue)](#请作者喝一杯咖啡-) [![](https://img.shields.io/badge/-Star-blue)](#Star-) [![](https://img.shields.io/badge/-%E5%A3%B0%E6%98%8E-blue)](#免责声明-)
 
 # 功能 [![](https://img.shields.io/badge/-%E5%8A%9F%E8%83%BD-blue)](#功能-)
 1.根据阿里云盘Open平台api开发的网盘客户端，支持win7-11，macOS，linux <br>
@@ -155,13 +155,13 @@
   <img height="360" src="https://github.com/gaozhangmin/staticResource/blob/master/images/alipay.jpeg" />
 </p>
 
-# Star 历史 [![](https://img.shields.io/badge/-Star-blue)](#Star-)
+# Star [![](https://img.shields.io/badge/-Star-blue)](#Star-)
 [![Star History Chart](https://api.star-history.com/svg?repos=gaozhangmin/aliyunpan&type=Date)](https://star-history.com/#gaozhangmin/aliyunpan&Date)
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
 
-# 免责声明 [![](https://img.shields.io/badge/-%E5%A3%B0%E6%98%8E-blue)](#Announcement-)
+# 免责声明 [![](https://img.shields.io/badge/-%E5%A3%B0%E6%98%8E-blue)](#免责声明-)
 1.本程序为免费开源项目，旨在分享网盘文件，方便下载以及学习electron，使用时请遵守相关法律法规，请勿滥用；
 
 2.本程序通过调用官方sdk/接口实现，无破坏官方接口行为；
