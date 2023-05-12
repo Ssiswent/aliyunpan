@@ -106,10 +106,10 @@
 
 ### 故障排除
 
--   "小白羊云盘" can’t be opened because the developer cannot be verified.
+-   "小白羊网盘" can’t be opened because the developer cannot be verified.
     
     <p align="center">
-      <img width="300" src="https://user-images.githubusercontent.com/1206493/223916804-45ce3f34-6a4a-4baf-a0c1-4ab5c54c521f.png" />
+      <img width="300" src="https://github.com/gaozhangmin/aliyunpan/assets/9278488/4b4a85e5-debc-45e1-b6fa-70b719a87bff" />
     </p>
 
     -   点击 `Cancel` 按钮，然后去 `设置` -> `隐私与安全性` 页面，点击 `仍要打开` 按钮，然后在弹出窗口里点击 `打开` 按钮即可，以后就再也不会有任何弹窗告警了 🎉
