@@ -123,13 +123,6 @@
         ```sh
         sudo xattr -d com.apple.quarantine /Applications/小白羊云盘.app
         ```
-
--   如果您每次打开它都遇到权限提示，请前往 `设置` -> `隐私与安全性` -> `辅助功能` 中删除 小白羊云盘，然后重新添加 小白羊云盘:
-
-    <p align="center">
-      <img width="500" src="https://user-images.githubusercontent.com/1206493/224536148-eec559bf-4d99-48c1-bbd3-2cc105aff084.png" />
-      <img width="600" src="https://user-images.githubusercontent.com/1206493/224536277-4200f58e-8dc0-4c01-a27a-a30d7d8dc69e.gif" />
-    </p>
     
     
 # 交流社区 [![](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%A4%BE%E5%8C%BA-blue)](#交流社区-)
