@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gaozhangmin/staticResource/blob/master/images/wechat_public_account.png" target="_blank">
+<!--   <a href="https://github.com/gaozhangmin/staticResource/blob/master/images/wechat_public_account.png" target="_blank">
     <img src="https://img.shields.io/badge/-微信关注“小白羊网盘”公众号-orange.svg" alt="#" align="right">
-  </a>
+  </a> -->
   <a href="LICENSE" target="_blank">
     <img alt="MIT License" src="https://img.shields.io/github/license/gaozhangmin/aliyunpan?style=flat-square&logoColor=white" />
   </a>
