@@ -33,6 +33,10 @@
   <a href="https://github.com/gaozhangmin/aliyunpan/releases" target="_blank">
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux&logoColor=white" />
   </a>  
+  
+  <a href="https://github.com/gaozhangmin/aliyunpan/stargazers" target="_blank">
+    <img alt="Star" src="https://img.shields.io/github/stars/gaozhangmin/aliyunpan?style=social" />
+  </a>
 </p>
 
 
@@ -125,14 +129,6 @@
         ```sh
         sudo xattr -d com.apple.quarantine /Applications/小白羊云盘.app
         ```
-        
-# 小白羊公众号 [![](https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-blue)](#小白羊公众号-)
-<p align="center">
-  <img height="360" src="https://github.com/gaozhangmin/aliyunpan/assets/9278488/fab3c50f-8218-4e99-8c45-e23f6e2252aa" />
-</p>
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
-</a>
 
 # 交流社区 [![](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%A4%BE%E5%8C%BA-blue)](#交流社区-)
 
@@ -142,11 +138,19 @@
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
 
-
+# 小白羊公众号 [![](https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-blue)](#小白羊公众号-)
+<p align="center">
+  <img height="360" src="https://github.com/gaozhangmin/staticResource/blob/master/images/qrcode_search_white.png" />
+</p>
+<a href="#readme">
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
+</a>
 
 # 鸣谢 [![](https://img.shields.io/badge/-%E9%B8%A3%E8%B0%A2-blue)](#鸣谢-)
 本项目基于 https://github.com/liupan1890/aliyunpan 仓库继续开发。
+
 感谢作者 [liupan1890](https://github.com/liupan1890)
+
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
 </a>
@@ -156,12 +160,6 @@
   <img height="360" src="https://github.com/gaozhangmin/staticResource/blob/master/images/wechat_pay.jpeg" />
   <img height="360" src="https://github.com/gaozhangmin/staticResource/blob/master/images/alipay.jpeg" />
 </p>
-
-# Star [![](https://img.shields.io/badge/-Star-blue)](#Star-)
-[![Star History Chart](https://api.star-history.com/svg?repos=gaozhangmin/aliyunpan&type=Date)](https://star-history.com/#gaozhangmin/aliyunpan&Date)
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
-</a>
 
 # 免责声明 [![](https://img.shields.io/badge/-%E5%A3%B0%E6%98%8E-blue)](#免责声明-)
 1.本程序为免费开源项目，旨在分享网盘文件，方便下载以及学习electron，使用时请遵守相关法律法规，请勿滥用；
